@@ -1,4 +1,4 @@
-#🏠 Real Estate USA Sales & Market Analytics Dashboard
+🏠 Real Estate USA Sales & Market Analytics Dashboard
 
 📊 Project Overview
 
